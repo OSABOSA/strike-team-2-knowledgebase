@@ -11,10 +11,14 @@
             "id": "63e3f07e22ebdeac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hugging Faces.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hugging Faces"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hugging Faces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Hugging Faces"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hugging Faces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Hugging Faces"
             }
           },
           {
@@ -136,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Library.md",
+                "file": "Hugging Faces.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Library"
+              "title": "Outline of Hugging Faces"
             }
           },
           {
@@ -177,19 +183,21 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "homepage:Open homepage": false,
-      "khoj:Khoj": false
+      "khoj:Khoj": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "143d081d321d3961",
   "lastOpenFiles": [
-    "templates/Product.md",
+    "LangChain.md",
+    "LM Studio.md",
     "templates/Library.md",
+    "templates/Product.md",
     "templates/Iframe.md",
     "Untitled Kanban.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2025-02-20 18.33.34.excalidraw.md",
     "Excalidraw",
-    "LM Studio.md",
     "Excalidraw/Drawing 2025-02-20 18.24.12.excalidraw.md",
     "Hugging Faces.md",
     "Untitled.md",
@@ -213,7 +221,6 @@
     "templates/Question.md",
     "templates/Question split.md",
     "templates/Post.md",
-    "templates/People.md",
     "templates"
   ]
 }
