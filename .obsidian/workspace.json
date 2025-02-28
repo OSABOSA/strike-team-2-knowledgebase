@@ -1,14 +1,28 @@
 {
   "main": {
-    "id": "09e55c2c4d77f32c",
+    "id": "baace2adf2a01f9c",
     "type": "split",
     "children": [
       {
-        "id": "a2ec4eced9032992",
+        "id": "fc80558b1e6351cb",
         "type": "tabs",
         "children": [
           {
-            "id": "86e2676bf8b107c8",
+            "id": "63e3f07e22ebdeac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hugging Faces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hugging Faces"
+            }
+          },
+          {
+            "id": "ca8645e8e38307c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,21 +35,22 @@
               "title": "Hugging Faces"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9abd3cb3fe2a9544",
+    "id": "139fce175747e248",
     "type": "split",
     "children": [
       {
-        "id": "9f05e579ae92f847",
+        "id": "1bd14285fd2bc5b0",
         "type": "tabs",
         "children": [
           {
-            "id": "31be5130335c749a",
+            "id": "143d081d321d3961",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "3efafadceeb93b12",
+            "id": "70528597e4fb5990",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "4ffc3ccf16262ca4",
+            "id": "1468c52b1b673734",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "f880491d3425c66c",
+    "id": "b9830fe46c3b94bf",
     "type": "split",
     "children": [
       {
-        "id": "5a8679097b34ca0f",
+        "id": "c19dd21398165ce5",
         "type": "tabs",
         "children": [
           {
-            "id": "783f6edbcd194aa7",
+            "id": "a13deac6dc34ab8e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hugging Faces.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hugging Faces"
+              "title": "Backlinks for README"
             }
           },
           {
-            "id": "3180c6f2428ba3ba",
+            "id": "c060d2fb83e683ac",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hugging Faces.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hugging Faces"
+              "title": "Outgoing links from README"
             }
           },
           {
-            "id": "eaa7945324a2b9e0",
+            "id": "17d845ff6ecc2e83",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,21 +152,32 @@
             }
           },
           {
-            "id": "638d71600bfd9bd5",
+            "id": "9e46aac0fd32101c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hugging Faces.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hugging Faces"
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "255377d295cec682",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,29 +192,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "86e2676bf8b107c8",
+  "active": "ca8645e8e38307c5",
   "lastOpenFiles": [
-    "LangChain.md",
-    "Untitled.md",
-    "test.md",
+    "New Text Document.txt",
     "sdsdcscd.md",
-    "README.md",
-    "LM Studio.md",
+    "test.md",
     "Hugging Faces.md",
-    "computer.svg",
+    "LangChain.md",
+    "LM Studio.md",
+    "README.md",
     "ChromaDB.md",
-    "strike-team-2-knowledgebase/test.md",
-    "strike-team-2-knowledgebase/sdsdcscd.md",
-    "strike-team-2-knowledgebase/computer.svg",
-    "strike-team-2-knowledgebase/Untitled.md",
-    "strike-team-2-knowledgebase/README.md",
-    "strike-team-2-knowledgebase/LangChain.md",
-    "strike-team-2-knowledgebase/LM Studio.md",
-    "strike-team-2-knowledgebase/Hugging Faces.md",
-    "strike-team-2-knowledgebase/ChromaDB.md",
-    "strike-team-2-knowledgebase"
+    "computer.svg",
+    "📑Open file relative.md",
+    "templates/Library.md",
+    "templates/Product.md",
+    "templates/Iframe.md",
+    "Untitled Kanban.md",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2025-02-20 18.33.34.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2025-02-20 18.24.12.excalidraw.md",
+    "templates/web-clipper/github-clipper.json",
+    "templates/web-clipper/default-clipper.json",
+    "templates/web-clipper",
+    "templates/monthly/Montly Note.md",
+    "templates/monthly",
+    "templates/daily/Daily Note.md",
+    "templates/daily/Daily Note  - System.md",
+    "templates/daily",
+    "templates/Yearly Reading list.md",
+    "templates/TODO.md",
+    "templates/Thought.md",
+    "templates/Term.md",
+    "templates/Tag.md",
+    "templates/Resource.md",
+    "templates/Reading List.md",
+    "templates"
   ]
 }
