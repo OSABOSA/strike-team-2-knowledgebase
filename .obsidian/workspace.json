@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "d3dc0d8516801667",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-28 20.51.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-28 20.51.02.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,15 +183,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d41d6c85aa7af0ae",
+  "active": "d3dc0d8516801667",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2025-02-28 20.51.02.excalidraw.md",
+    "Excalidraw",
     "Untitled 2.md",
+    "Untitled 1.md",
     "sdsdcscd.md",
     "Excalidraw/Drawing 2025-02-28 20.43.52.excalidraw.md",
-    "Untitled.md",
     "test.md",
-    "Excalidraw",
     "computer.svg",
     "strike-team-2-knowledgebase/README.md",
     "ChromaDB.md",
