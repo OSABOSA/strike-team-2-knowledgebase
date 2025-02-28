@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Hugging Faces"
             }
+          },
+          {
+            "id": "43bdfd960025612c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,14 +205,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "ca8645e8e38307c5",
+  "active": "43bdfd960025612c",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Hugging Faces.md",
     "Untitled.md",
+    "Hugging Faces.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Excalidraw/Drawing 2025-02-28 20.43.52.excalidraw.md",
     "Excalidraw",
     "New Text Document.txt",
@@ -229,7 +245,6 @@
     "templates/Thought.md",
     "templates/Term.md",
     "templates/Tag.md",
-    "templates/Resource.md",
     "templates"
   ]
 }
