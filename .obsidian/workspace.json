@@ -4,65 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e18f6ce438082917",
+        "id": "5d607d2cb100b4cc",
         "type": "tabs",
         "children": [
           {
-            "id": "f3fee37e5a1e7847",
+            "id": "d41d6c85aa7af0ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test"
-            }
-          },
-          {
-            "id": "0075491932dc353b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-28 20.43.52.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-28 20.43.52.excalidraw"
-            }
-          },
-          {
-            "id": "ec56544da635b064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "79bc76c03a6983aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sdsdcscd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sdsdcscd"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Excalidraw/Drawing 2025-02-28 20.43.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for Drawing 2025-02-28 20.43.52.excalidraw"
             }
           },
           {
@@ -154,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Excalidraw/Drawing 2025-02-28 20.43.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 1"
+              "title": "Outgoing links from Drawing 2025-02-28 20.43.52.excalidraw"
             }
           },
           {
@@ -183,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Excalidraw/Drawing 2025-02-28 20.43.52.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Drawing 2025-02-28 20.43.52.excalidraw"
             }
           }
         ]
@@ -207,15 +162,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "ec56544da635b064",
+  "active": "997a2508d54c3bd3",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Excalidraw/Drawing 2025-02-28 20.43.52.excalidraw.md",
     "test.md",
+    "Untitled 1.md",
     "Excalidraw",
     "sdsdcscd.md",
     "Untitled.md",
