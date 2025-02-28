@@ -35,8 +35,7 @@
               "title": "sdsdcscd"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sdsdcscd.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sdsdcscd"
+              "title": "Backlinks for test"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sdsdcscd.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from sdsdcscd"
+              "title": "Outgoing links from test"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sdsdcscd.md",
+                "file": "test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sdsdcscd"
+              "title": "Outline of test"
             }
           }
         ]
@@ -184,11 +183,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "79bc76c03a6983aa",
+  "active": "f3fee37e5a1e7847",
   "lastOpenFiles": [
+    "sdsdcscd.md",
     "Untitled.md",
     "test.md",
-    "sdsdcscd.md",
     "computer.svg",
     "strike-team-2-knowledgebase/README.md",
     "ChromaDB.md",
