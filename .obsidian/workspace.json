@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "baace2adf2a01f9c",
+    "id": "93ded636c7c4e6a5",
     "type": "split",
     "children": [
       {
-        "id": "fc80558b1e6351cb",
+        "id": "e18f6ce438082917",
         "type": "tabs",
         "children": [
           {
-            "id": "63e3f07e22ebdeac",
+            "id": "f3fee37e5a1e7847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hugging Faces.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hugging Faces"
+              "title": "test"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "139fce175747e248",
+    "id": "3e0b300664259f76",
     "type": "split",
     "children": [
       {
-        "id": "1bd14285fd2bc5b0",
+        "id": "881986aa533b36d3",
         "type": "tabs",
         "children": [
           {
-            "id": "143d081d321d3961",
+            "id": "997a2508d54c3bd3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "70528597e4fb5990",
+            "id": "053bfd738b793d3b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "1468c52b1b673734",
+            "id": "e9552929cdb30e2f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "b9830fe46c3b94bf",
+    "id": "dab896db817c93a8",
     "type": "split",
     "children": [
       {
-        "id": "c19dd21398165ce5",
+        "id": "119dfc9485885827",
         "type": "tabs",
         "children": [
           {
-            "id": "a13deac6dc34ab8e",
+            "id": "9c2b06395f475354",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for test"
             }
           },
           {
-            "id": "c060d2fb83e683ac",
+            "id": "91371a462aac11f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from test"
             }
           },
           {
-            "id": "17d845ff6ecc2e83",
+            "id": "f1cff9aa8f292a5f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,32 +137,21 @@
             }
           },
           {
-            "id": "9e46aac0fd32101c",
+            "id": "4c59fe2784e21d5b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
-            }
-          },
-          {
-            "id": "255377d295cec682",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "Outline of test"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,44 +166,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "63e3f07e22ebdeac",
+  "active": "f3fee37e5a1e7847",
   "lastOpenFiles": [
+    "test.md",
+    "strike-team-2-knowledgebase/README.md",
+    "ChromaDB.md",
+    "README.md",
+    "LM Studio.md",
     "LangChain.md",
     "Hugging Faces.md",
-    "README.md",
-    "ChromaDB.md",
     "computer.svg",
-    "LM Studio.md",
-    "📑Open file relative.md",
-    "templates/Library.md",
-    "templates/Product.md",
-    "templates/Iframe.md",
-    "Untitled Kanban.md",
-    "Untitled 1.md",
-    "Excalidraw/Drawing 2025-02-20 18.33.34.excalidraw.md",
-    "Excalidraw",
-    "Excalidraw/Drawing 2025-02-20 18.24.12.excalidraw.md",
-    "templates/web-clipper/github-clipper.json",
-    "templates/web-clipper/default-clipper.json",
-    "templates/web-clipper",
-    "templates/monthly/Montly Note.md",
-    "templates/monthly",
-    "templates/daily/Daily Note.md",
-    "templates/daily/Daily Note  - System.md",
-    "templates/daily",
-    "templates/Yearly Reading list.md",
-    "templates/TODO.md",
-    "templates/Thought.md",
-    "templates/Term.md",
-    "templates/Tag.md",
-    "templates/Resource.md",
-    "templates/Reading List.md",
-    "templates/quote.md",
-    "templates/Quote File.md",
-    "templates"
+    "strike-team-2-knowledgebase/LM Studio.md",
+    "strike-team-2-knowledgebase/LangChain.md",
+    "strike-team-2-knowledgebase/Hugging Faces.md",
+    "strike-team-2-knowledgebase/computer.svg",
+    "strike-team-2-knowledgebase/ChromaDB.md",
+    "strike-team-2-knowledgebase"
   ]
 }
