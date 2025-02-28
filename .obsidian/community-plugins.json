@@ -1,5 +1,18 @@
 [
+<<<<<<< HEAD
   "table-editor-obsidian",
   "github-sync",
   "obsidian-excalidraw-plugin"
+=======
+<<<<<<< HEAD
+  "github-sync",
+  "obsidian-excalidraw-plugin"
+=======
+<<<<<<< HEAD
+=======
+  "table-editor-obsidian",
+>>>>>>> a1d32a468b89432959eb217496755d8836366221
+  "github-sync"
+>>>>>>> e8768da85427d2484e2cfac2398b2fd7222fcbb7
+>>>>>>> 6785613d4c9a894b800ede272f5751b6a6a1608d
 ]
