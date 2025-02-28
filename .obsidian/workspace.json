@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ec4eced9032992",
+        "id": "b3618e4f0f695529",
         "type": "tabs",
         "children": [
           {
-            "id": "86e2676bf8b107c8",
+            "id": "8f6200a43ceaea84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChromaDB.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ChromaDB"
-            }
-          },
-          {
-            "id": "0d432c132f37e3ca",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-28 20.43.01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-28 20.43.01.excalidraw"
-            }
-          },
-          {
-            "id": "270da196f5b6c24b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-28 20.51.02.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-28 20.51.02.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-28 20.51.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-02-28 20.51.02.excalidraw"
+              "title": "Backlinks"
             }
           },
           {
@@ -138,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-28 20.51.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-02-28 20.51.02.excalidraw"
+              "title": "Outgoing links"
             }
           },
           {
@@ -167,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-28 20.51.02.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-02-28 20.51.02.excalidraw"
+              "title": "Outline"
             }
           }
         ]
@@ -195,18 +163,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "270da196f5b6c24b",
+  "active": "8f6200a43ceaea84",
   "lastOpenFiles": [
-    "Hugging Faces.md",
-    "Excalidraw/Drawing 2025-02-28 20.51.02.excalidraw.md",
+    "ChromaDB.md",
     "Excalidraw/Drawing 2025-02-28 20.43.01.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-28 20.51.02.excalidraw.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "Hugging Faces.md",
     "Untitled 3.md",
     "LM Studio.md",
     "New Dokument tekstowy.txt",
     "test.md",
     "Excalidraw",
-    "ChromaDB.md",
     "computer.svg",
     "LangChain.md",
     "README.md",
